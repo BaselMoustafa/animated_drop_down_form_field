@@ -1,0 +1,23 @@
+name: animated_drop_down_form_field
+description: Simple package creates built-in and customizable animations to drop down buttons, You can also validate the user input, close the list and open the list programmatically using custom controller.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+
+flutter:
+
